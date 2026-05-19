@@ -137,8 +137,7 @@ Validate username and password:
 ---
 
 ## 👨‍💻 Author
-
-* Student Lab Work (ASP.NET Core Practice)
+Imad Khan
 
 
 ✔ make professional GitHub repo structure
