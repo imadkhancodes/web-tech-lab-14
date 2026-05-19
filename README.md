@@ -140,9 +140,6 @@ Validate username and password:
 
 * Student Lab Work (ASP.NET Core Practice)
 
----
 
-If you want, I can also:
-✔ add screenshots section
 ✔ make professional GitHub repo structure
 ✔ or convert this into downloadable README.md file
