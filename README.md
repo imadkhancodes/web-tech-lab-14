@@ -1,16 +1,11 @@
-Here is a clean **README.md for GitHub** based on your Lab-14 ASP.NET Core project:
+# Lab-14: ASP.NET Core Web Application (VS Code)
 
----
-
-# 📘 Lab-14: ASP.NET Core Web Application (VS Code)
-
-## 🚀 Project Overview
+## Project Overview
 
 This project demonstrates how to build simple web applications using **ASP.NET Core, C#, and Visual Studio Code**. It includes basic Razor Pages examples such as forms, calculator, login validation, and dynamic content rendering.
 
----
 
-## 🎯 Objective
+## Objective
 
 * Set up ASP.NET Core environment in VS Code
 * Create and run web applications using C#
@@ -18,9 +13,7 @@ This project demonstrates how to build simple web applications using **ASP.NET C
 * Handle user input using forms
 * Build simple interactive web features
 
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 * ASP.NET Core (Razor Pages)
 * C# Programming Language
@@ -28,9 +21,7 @@ This project demonstrates how to build simple web applications using **ASP.NET C
 * .NET SDK
 * HTML/CSS (Basic Frontend)
 
----
-
-## 📦 Requirements
+## Requirements
 
 Install the following before running the project:
 
@@ -41,17 +32,12 @@ Install the following before running the project:
 * .NET Install Tool Extension
 * Web Browser (Chrome/Edge)
 
----
-
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Check .NET Installation
 
 ```bash id="h3kq9d"
 dotnet --version
-```
-
----
 
 ### 2. Create Project
 
@@ -59,25 +45,18 @@ dotnet --version
 dotnet new webapp -n MyFirstWebApp
 cd MyFirstWebApp
 code .
-```
-
----
 
 ### 3. Run Project
 
 ```bash id="q1m8vz"
 dotnet run
-```
 
 Open in browser:
 
-```
 https://localhost:5001
-```
 
----
 
-## 🧪 Lab Activities
+## Lab Activities
 
 ### 1. First Web Page
 
@@ -88,19 +67,13 @@ Modify `Pages/Index.cshtml`:
 <p>This is my first web application.</p>
 ```
 
----
-
 ### 2. Simple Form Input
 
 Accept username and display greeting.
 
----
-
 ### 3. Simple Calculator
 
 Add two numbers using Razor Pages and display result.
-
----
 
 ### 4. Login Validation
 
@@ -109,9 +82,7 @@ Validate username and password:
 * Username: `admin`
 * Password: `123`
 
----
-
-## 🧑‍🎓 Student Tasks
+## Student Tasks
 
 * Student registration form (name + course)
 * Find largest of two numbers
@@ -119,26 +90,17 @@ Validate username and password:
 * Feedback form (name + message)
 * Digital clock using C#
 
----
-
-## 📌 Features
+## Features
 
 * Simple Razor Pages examples
 * Form handling in ASP.NET Core
 * Beginner-friendly C# web development
 * Real-time output in browser
 
----
-
-## 📷 Output Preview
+## Output Preview
 
 > Run the project and open browser at `https://localhost:5001` to view output pages.
 
----
-
-## 👨‍💻 Author
+## Author
 Imad Khan
 
-
-✔ make professional GitHub repo structure
-✔ or convert this into downloadable README.md file
